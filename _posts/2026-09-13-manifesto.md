@@ -40,4 +40,10 @@ like to make you something.
 
 I've hidden too much for too long. I will be my real self, in person and on
 the Internet. I'll write about what I'm doing here and I'll put things onto
-Instagram. I
+Instagram.
+
+## helping people
+
+"These people are called Good Deed Doers". I will be helpful.
+
+
