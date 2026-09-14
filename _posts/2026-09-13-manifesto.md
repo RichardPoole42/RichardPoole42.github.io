@@ -36,6 +36,12 @@ to have made things for 10 different people. I'm actively looking for
 collaborators: if you're reading this and you know me or live near me, I'd
 like to make you something.
 
+## reading books
+
+I used to be a constant reader and now I have a house full of books which
+I pick up from time to time. I'm going to see what it feels like to read a
+lot again.
+
 ## being visible
 
 I've hidden too much for too long. I will be my real self, in person and on
@@ -44,6 +50,6 @@ Instagram.
 
 ## helping people
 
-"These people are called Good Deed Doers". I will be helpful.
+"They are called Good Deed Doers". I will be helpful.
 
 
