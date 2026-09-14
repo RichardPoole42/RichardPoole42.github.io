@@ -5,10 +5,9 @@ Here are my main tracks for the rest of this year:
 ## music
 
 I play piano and bass every day. I will practise these and aim at improving
-my playing not just standing still. I haven't been playing guitar every
-day but I will begin to do so, and use that as my step into making music
-for people to see, by playing at open mic nights. I will write some songs.
-I will play my drums.
+my playing not just standing still. I haven't been playing guitar or
+drums every day but I will begin to do so. I will make music for people
+to see and hear, by playing at open mic nights. I will write some songs.
 
 ## fixing and decorating my house
 
@@ -43,11 +42,16 @@ I used to be a constant reader and now I have a house full of books which
 I pick up from time to time. I'm going to see what it feels like to read a
 lot again.
 
+## restoring the Wurlitzer
+
+I have a Wurlitzer 625T electronic organ, half-dismantled in my dining room.
+I will restore it to full playing condition.
+
 ## being visible
 
 I've hidden too much for too long. I will be my real self, in person and on
 the Internet. I'll write about what I'm doing here and I'll put things onto
-Instagram.
+Instagram and TikTok and YouTube.
 
 ## helping people
 
