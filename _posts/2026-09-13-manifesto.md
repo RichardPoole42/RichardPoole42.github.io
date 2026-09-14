@@ -5,17 +5,18 @@ Here are my main tracks for the rest of this year:
 ## music
 
 I play piano and bass every day. I will practise these and aim at improving
-my playing not just standing still. I haven't been playing guitar every day but I will
-begin to do so, and use that as my step into making music for people to see,
-by playing at open mic nights. I will write some songs.
+my playing not just standing still. I haven't been playing guitar every
+day but I will begin to do so, and use that as my step into making music
+for people to see, by playing at open mic nights. I will write some songs.
+I will play my drums.
 
 ## fixing and decorating my house
 
 My house is a mix of elements that I've put work into so they're how I like
 them and elements that have been waiting for me to do that, some for over 20
 years now. There are still too few of the former and too many of the latter.
-I will work towards making the whole place better, more to my own
-actual liking and more like something I would hope people drop round to
+I will work towards making the whole place better, more what I actually want
+to live in and more like something I would hope people drop round to
 rather than something I fear the shame of people seeing.
 
 ## making clothes
