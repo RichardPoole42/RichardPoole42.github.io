@@ -1,3 +1,6 @@
+---
+permalink: /manifesto/
+---
 In August I was made redundant. My time is my own now and I
 want to improve my world and the world of the people around me.
 Here are my main tracks for the rest of this year:
