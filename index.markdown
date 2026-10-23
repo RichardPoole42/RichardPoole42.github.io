@@ -11,3 +11,14 @@ layout: default
   <p>{{ latest.date | date: "%-d %B %Y" }}</p>
   {{ latest.content }}
 </article>
+{% if site.posts.size > 1 %}
+<h2>Older posts</h2>
+<ul>
+  {% for post in site.posts offset:1 %}
+  <li>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <small>{{ post.date | date: "%-d %B %Y" }}</small>
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}
