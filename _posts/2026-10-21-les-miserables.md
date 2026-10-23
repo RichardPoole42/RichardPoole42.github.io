@@ -42,9 +42,9 @@ development.
 The book is hard to understand in places because of the political
 concerns. It is set over 30 years in the past, and the central political
 incidents, the uprising of 1832, weren't in fact of great historical
-significance. Why exactly are this group of young mean setting up
+significance. Why exactly are this group of young men setting up
 barricades in the streets? What are they trying to achieve and why do
-they think this is the way achieve it? These questions aren't really
+they think this is the way to achieve it? These questions aren't really
 addressed: they are idealists and they are the sympathetic characters,
 with Thénardier's gang of criminals the unsympathetic ones, although
 their actions seem hardly more reasonable. France in 1832 was ruled by a
