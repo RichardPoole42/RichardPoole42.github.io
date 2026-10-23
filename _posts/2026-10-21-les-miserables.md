@@ -59,12 +59,12 @@ Lamarque is a suitable trigger for a half-arsed attempted revolution.
 
 I hope it doesn't sound like I didn't like the book. It's a wonderful
 book and everyone should read it. Hugo's world is infinitely detailed:
-whenever he introduces a minor character, he pauses to characterise them
-and bring them to life. The Bishop's sister, Fantine's friends, the
-waitresses at the Corinth cafe, Marius's grandfather, the Mother
-Superior of the convent, the confused and wrongly accused Champmathieu,
-are all unforgettable characters who don't make it into the musical at
-all. So why is the musical so completely successful?
+whenever he introduces a minor character, he pauses to characterise
+them and bring them to life. The Bishop's sister, Fantine's friends,
+the waitresses at the Corinth café, Marius's grandfather, the prioress
+of the convent, the confused and wrongly accused Champmathieu, are all
+unforgettable characters who don't make it into the musical at all. So
+why is the musical so completely successful?
 
 Hugo loves a metaphor and he especially loves two metaphors for the
 soul's journey and specifically for Valjean's: the movement from low
